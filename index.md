@@ -10,8 +10,7 @@ python --version
 python3 --version
 ```
 
-![alt text](https://github.com/karolosk/bi_software/blob/gh-pages/pythonv.png)
-![image-title-here](https://github.com/karolosk/bi_software/blob/gh-pages/pythonv.png){:class="img-responsive"}
+![alt text]({{ site.url }}/pythonv.png)
 
 Windows users please go at https://www.python.org/downloads/windows/ and get the appropriate file for your PC. Please note that during the installation you will be asked to add Python in Path. You should enable this option. 
 
