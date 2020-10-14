@@ -1,4 +1,4 @@
-# Software needed
+# Software needed for BI class
 
 ## Python
 
