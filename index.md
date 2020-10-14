@@ -4,8 +4,11 @@
 
 We will need Python > 3.5 version.
 Linux and Mac users should have both 2.7.x and > 3.6.x versions installed by default on their machines. You can check your current version for both of them with:
-- python ---version 
-- python3 ---version 
+
+```console
+python --version
+python3 --version
+```
 
 ![Image](https://github.com/karolosk/bi_software/blob/gh-pages/pythonv.png)
 
