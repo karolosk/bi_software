@@ -11,11 +11,10 @@ python3 --version
 ```
 
 ![alt text](/pythonv.png)
-![Image](https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/hobbit-banner-700x362.jpg)
 
 Windows users please go at https://www.python.org/downloads/windows/ and get the appropriate file for your PC. Please note that during the installation you will be asked to add Python in Path. You should enable this option. 
 
-![alt text](https://github.com/karolosk/bi_software/blob/gh-pages/pythonpath.png)
+![alt text](/pythonpath.png)
 
 It allows you to run your files on cmd by: 
 
