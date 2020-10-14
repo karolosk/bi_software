@@ -1,5 +1,6 @@
-# Software needed for BI class
-
+---
+title: Software needed for BI class
+---
 ## Python
 
 We will need Python > 3.5 version.
